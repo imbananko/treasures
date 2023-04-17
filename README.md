@@ -35,3 +35,15 @@
 | Очень краткое введение в ML от vas3k | https://vas3k.ru/blog/machine_learning/ | Прикольное и понятное описание задач в ML |
 | Hands on Machine Learning | https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/ | Хорошее введние в ML с упором на практику |
 
+# Java
+## Multithreading
+
+| Name | Link | Commentary |
+|---|---|---|
+| Concurrency In Practice |  | Отличная книга о многопоточности в Java на все времена |
+| Java Language Specification, Chapter 17 | https://docs.oracle.com/javase/specs/jls/se7/html/jls-17.html | Самый главный документ о многопоточности в Java. Главный источник истины. |
+| Close Encounters of The Java Memory Model Kind | https://shipilev.net/blog/2016/close-encounters-of-jmm-kind/ | Очень подробно об JMM от ключевого разработчика OpenJDK Алексея Шипилёва |
+
+* https://www.1024cores.net/ 
+* http://concurrencyfreaks.blogspot.com/
+
