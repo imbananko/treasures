@@ -4,7 +4,7 @@
 |---|---|---|
 | The Art of Searching | https://youtu.be/yst6VQ7Lwpo | Неплохой вводный доклад о классических подходах к Kornev полнотекстовому поиску |
 | Как устроен поиск | https://habr.com/ru/company/oleg-bunin/blog/310208/ | Рассказ о том, как устроен поиск от Алексея Аксенова, автора Sphinx |
-| Как устроен поиск | https://habr.com/ru/company/oleg-bunin/blog/310208/ | Обзорная статья от headhunter |
+| Как устроен поиск | https://habr.com/ru/company/hh/blog/413261/ | Обзорная статья от headhunter |
 | The Anatomy of a Large-Scale Hypertexual Search Engine | https://snap.stanford.edu/class/cs224w-readings/Brin98Anatomy.pdf | Основополагающая статья неких Sergey Brin и Larry Page о Google |
 | Introduction to Information Retrieval (Manning & Schutze) | https://nlp.stanford.edu/IR-book/information-retrieval-book.html | Классическое введение в информационный поиск |
 | Search Engines: Information Retrieval in Practice | https://ciir.cs.umass.edu/irbook/ | Еще одна хорошая книга по информационному поиску |
