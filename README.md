@@ -77,5 +77,17 @@
 | Cassandra Patterns | https://speakerdeck.com/sherman/cassandra-patterns | Хороший, но немного устаревший доклад о типичных подходах к построению схемы данных в кассандре |
 | Лекция Романа Липовского о кассандре и динамо | https://youtu.be/qQLOofy8SYI | Хорошо объясняет мотивацию тех или иных архитектурных решений |
 
+## Избранные доклады с Hydra
+| Name | Link | Commentary |
+|---|---|---|
+| Распределен ные транзакции в YDB | https://2019.hydraconf.com/2019/talks/3ubxfwi4ikpxdjcdqswjih/ | Интересный доклад как на практике реализовали идеи из [Calvin](https://blog.acolyer.org/2019/03/29/calvin-fast-distributed-transactions-for-partitioned-database-systems/) |
+| Scalable postgresql (Yugabyte) | https://2020.hydraconf.com/2020/msk/talks/6llhavpi9hi5yeibx64csi | Если вы когда-нибудь будете делать распределенную базу данных, например, то хорошей стратегией будет взять популярный продукт и переписать его внутри, добавив в него те свойства, которых нет у оригинала. Например, Yugabyte взял query layer от Postgresql и сделал как бы распределенный Postgresql. Для клиента эта база данных выглядит почти как Postgresql.
+Еще примеры: [Redpanda](https://redpanda.com/), [Scylla](https://www.scylladb.com/), Clickhouse тоже поддерживает бинарный протокол Postgresql кажется.
+Внутри Яндекс очень много продуктов, которые построены по такому принципу (язык запросов общий, а движки разные) |
+| CAP Theorem — two decades and few clouds later | https://2021.hydraconf.com/2021/msk/talks/5suwvc3iunj6y0twg8hz3v/ | Снова про CAP теорему, но уже с позиции прошедших лет |
+| The official ten-year retrospective of NewSQL databases | https://2021.hydraconf.com/2021/msk/talks/1pthdabh5d2mn3fm2h7kme/ | Andy Pavlo рассуждает на тему эволюции баз данных. Это всегда интересно. Рекомендую не пропускать его выступления |
 
+
+
+|  |  |  |
 |  |  |  |
