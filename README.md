@@ -67,5 +67,5 @@
 | Лекции Романа Липовского о распределенных системах | https://www.youtube.com/playlist?list=PL4_hYwCyhAvaYKF6HkyCximCvlExxxnrC | Лекции огонь, достаточно открыть плейлист и прочитать список тем как это станет ясно |
 | Подходы к реализации шардинга в современных NoSQL-системах (Константин Осипов) | https://youtu.be/DfaTNXCsYRg | Название говорит само за себя. Доклад довольно тяжелый |
 
-https://lemire.me/en/#publications - Публикации Daniel Lemire, интересное про performance в обработке данных (биты, байтики и т.п.). Автор Roaring Bitmap.
-https://vldb.org/pvldb/vol15-volume-info/ - Публикации с конференции VLDB (Very Large Databases) https://dl.acm.org/conference/mod - Публикации SIGMOD (Special Interest Group of Management of Data)
+* https://lemire.me/en/#publications - Публикации Daniel Lemire, интересное про performance в обработке данных (биты, байтики и т.п.). Автор Roaring Bitmap.
+* https://vldb.org/pvldb/vol15-volume-info/ - Публикации с конференции VLDB (Very Large Databases) https://dl.acm.org/conference/mod - Публикации SIGMOD (Special Interest Group of Management of Data)
