@@ -19,6 +19,7 @@
 * http://terrier.org/ - исследовательский поисковый движок на Java
 
 # Lucene
+
 | Name | Link | Commentary |
 |---|---|---|
 | Lucene In Action |  | Вводная книга для работы с Lucene с точки зрения пользователя |
@@ -26,3 +27,11 @@
 | Keynote: Twitter's search architecture | https://youtu.be/AguWva8P_DI | Поиск в Twitter: внутреннее устройство |
 | Faceted Search with Lucene (Shai Erera, IBM) | https://youtu.be/-CNZxkAMcKk | Краткая вводная в фасетный поиск в Lucene |
 | Статьи Mike McCandless | https://dzone.com/users/887673/mikemccand.html | Автор Lucene In Action  |
+
+# NLP/ML
+| Name | Link | Commentary |
+|---|---|---|
+| Speech and Language Processing (Jurafsky & Martin) | https://web.stanford.edu/~jurafsky/slp3/ | Классическое введение в NLP |
+| Очень краткое введение в ML от vas3k | https://vas3k.ru/blog/machine_learning/ | Прикольное и понятное описание задач в ML |
+| Hands on Machine Learning | https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/ | Хорошее введние в ML с упором на практику |
+
