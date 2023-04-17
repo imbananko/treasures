@@ -54,3 +54,18 @@
 * https://richardstartin.github.io/ автор много пишет про перформанс в jvm 
 * http://psy-lob-saw.blogspot.com/ - блог о перформансе в jvm
  
+# Distributed Systems, DBMS
+
+| Name | Link | Commentary |
+|---|---|---|
+| Bigtable: A Distributed Storage System for Structured Data | https://static.googleusercontent.com/media/research.google.com/en/archive/bigtable-osdi06.pdf | Легендарный пейпер от Google оказавший огромное влияние на мир IT. Обязателен к прочтению |
+| Database Internals: A Deep Dive into How Distributed Data Systems Work | https://www.databass.dev/ | Отличная книга про внутренне устройство современных баз данных и распределённых систем |
+| Designing Data-Intensive Applications | https://dataintensive.net/ | Must-Read для любого разработчика. Лучшая референсная книга про распределённые системы и базы данных |
+| Dynamo: Amazon’s Highly Available Key-value Store | https://www.allthingsdistributed.com/files/amazon-dynamo-sosp2007.pdf | Легендарный пейпер (x2) от Amazon оказавший огромное влияние на мир IT. Обязателен к прочтению |
+| NewSQL: SQL никуда не уходит (Константин Осипов) | https://youtu.be/8OZcgOKUyk | Лайтовое рассуждение почему NoSQL трансформируется в NewSQL |
+| Лекции по внутреннастям баз данных от мейл ру. | https://www.youtube.com/playlist?list=PLrCZzMib1e9r6c-j8aW1JuETSyCBp9iAg | Лекции уже довольно старые 2014 год. Если хотите выучить рафт и паксес лучше послушать лекции Ромы, однако тут тоже много полезного и интересного |
+| Лекции Романа Липовского о распределенных системах | https://www.youtube.com/playlist?list=PL4_hYwCyhAvaYKF6HkyCximCvlExxxnrC | Лекции огонь, достаточно открыть плейлист и прочитать список тем как это станет ясно |
+| Подходы к реализации шардинга в современных NoSQL-системах (Константин Осипов) | https://youtu.be/DfaTNXCsYRg | Название говорит само за себя. Доклад довольно тяжелый |
+
+https://lemire.me/en/#publications - Публикации Daniel Lemire, интересное про performance в обработке данных (биты, байтики и т.п.). Автор Roaring Bitmap.
+https://vldb.org/pvldb/vol15-volume-info/ - Публикации с конференции VLDB (Very Large Databases) https://dl.acm.org/conference/mod - Публикации SIGMOD (Special Interest Group of Management of Data)
