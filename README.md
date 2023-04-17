@@ -10,7 +10,6 @@
 | Search Engines: Information Retrieval in Practice | https://ciir.cs.umass.edu/irbook/ | Еще одна хорошая книга по информационному поиску |
 | Устройство поисковых систем: базовый поиск и инвертированный индекс | https://habr.com/ru/post/545634/ | Обзорная статья с раскрытием механики работы TF-IDF и BM25 о базовом поиске |
 
-random links:
 * https://habr.com/ru/company/vk/blog/338360/
 * https://habr.com/ru/post/446530/
 * https://github.com/facebookresearch/faiss
@@ -18,3 +17,12 @@ random links:
 * https://www.wsdm-conference.org/ - конференция WSDM
 * https://dl.acm.org/conference/ir/proceedings - конференции ACM по информационному поиску. В первую очередь смотреть SIGIR и ECIR
 * http://terrier.org/ - исследовательский поисковый движок на Java
+
+# Lucene
+| Name | Link | Commentary |
+|---|---|---|
+| Lucene In Action |  | Вводная книга для работы с Lucene с точки зрения пользователя |
+| What is in a Lucene index? (Adrien Grand, Elasticsearch) | https://youtu.be/T5RmMNDR5XI | Доклад разработчика ElasticSearch и контребьютора в Lucene о внутреннем устройстве индекса |
+| Keynote: Twitter's search architecture | https://youtu.be/AguWva8P_DI | Поиск в Twitter: внутреннее устройство |
+| Faceted Search with Lucene (Shai Erera, IBM) | https://youtu.be/-CNZxkAMcKk | Краткая вводная в фасетный поиск в Lucene |
+| Статьи Mike McCandless | https://dzone.com/users/887673/mikemccand.html | Автор Lucene In Action  |
