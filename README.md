@@ -55,7 +55,7 @@
 * http://psy-lob-saw.blogspot.com/ - блог о перформансе в jvm
  
 # Distributed Systems, DBMS
-
+## General
 | Name | Link | Commentary |
 |---|---|---|
 | Bigtable: A Distributed Storage System for Structured Data | https://static.googleusercontent.com/media/research.google.com/en/archive/bigtable-osdi06.pdf | Легендарный пейпер от Google оказавший огромное влияние на мир IT. Обязателен к прочтению |
@@ -69,3 +69,13 @@
 
 * https://lemire.me/en/#publications - Публикации Daniel Lemire, интересное про performance в обработке данных (биты, байтики и т.п.). Автор Roaring Bitmap.
 * https://vldb.org/pvldb/vol15-volume-info/ - Публикации с конференции VLDB (Very Large Databases) https://dl.acm.org/conference/mod - Публикации SIGMOD (Special Interest Group of Management of Data)
+
+## Cassandra
+| Name | Link | Commentary |
+|---|---|---|
+| Cassandra: The Definitive Guide: Distributed Data at Web Scale | https://www.amazon.com/Cassandra-Definitive-Guide-Distributed-Scale/dp/1098115163 | Вводная книга по работе с Кассандрой |
+| Cassandra Patterns | https://speakerdeck.com/sherman/cassandra-patterns | Хороший, но немного устаревший доклад о типичных подходах к построению схемы данных в кассандре |
+| Лекция Романа Липовского о кассандре и динамо | https://youtu.be/qQLOofy8SYI | Хорошо объясняет мотивацию тех или иных архитектурных решений |
+
+
+|  |  |  |
