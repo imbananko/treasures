@@ -81,13 +81,26 @@
 | Name | Link | Commentary |
 |---|---|---|
 | Распределен ные транзакции в YDB | https://2019.hydraconf.com/2019/talks/3ubxfwi4ikpxdjcdqswjih/ | Интересный доклад как на практике реализовали идеи из [Calvin](https://blog.acolyer.org/2019/03/29/calvin-fast-distributed-transactions-for-partitioned-database-systems/) |
-| Scalable postgresql (Yugabyte) | https://2020.hydraconf.com/2020/msk/talks/6llhavpi9hi5yeibx64csi | Если вы когда-нибудь будете делать распределенную базу данных, например, то хорошей стратегией будет взять популярный продукт и переписать его внутри, добавив в него те свойства, которых нет у оригинала. Например, Yugabyte взял query layer от Postgresql и сделал как бы распределенный Postgresql. Для клиента эта база данных выглядит почти как Postgresql.
-Еще примеры: [Redpanda](https://redpanda.com/), [Scylla](https://www.scylladb.com/), Clickhouse тоже поддерживает бинарный протокол Postgresql кажется.
-Внутри Яндекс очень много продуктов, которые построены по такому принципу (язык запросов общий, а движки разные) |
+| Scalable postgresql (Yugabyte) | https://2020.hydraconf.com/2020/msk/talks/6llhavpi9hi5yeibx64csi | Если вы когда-нибудь будете делать распределенную базу данных, например, то хорошей стратегией будет взять популярный продукт и переписать его внутри, добавив в него те свойства, которых нет у оригинала. Например, Yugabyte взял query layer от Postgresql и сделал как бы распределенный Postgresql. Еще примеры: [Redpanda](https://redpanda.com/), [Scylla](https://www.scylladb.com/) |
 | CAP Theorem — two decades and few clouds later | https://2021.hydraconf.com/2021/msk/talks/5suwvc3iunj6y0twg8hz3v/ | Снова про CAP теорему, но уже с позиции прошедших лет |
 | The official ten-year retrospective of NewSQL databases | https://2021.hydraconf.com/2021/msk/talks/1pthdabh5d2mn3fm2h7kme/ | Andy Pavlo рассуждает на тему эволюции баз данных. Это всегда интересно. Рекомендую не пропускать его выступления |
 
+## Apache Ignite
+| Name | Link | Commentary |
+|---|---|---|
+| Aндрей Гура - Архитектура хранилища распределенной базы данных Apache Ignite: решения и компромиссы | https://youtu.be/vpbmYA0Wsbg | Хороший доклад о том, почему вообще в in-memory БД добавляют персистентное хранение на диски (ради рестартов) |
+| Командная разработка сложных продуктов (Владимир Озеров) | https://youtu.be/jR1vqZqzD-U | Озеров руководил разработкой в GridGain, потом ещё работал над Хазелкастом |
+| B+ дерево в реальном проекте | https://habr.com/ru/company/sberbank/blog/413749/ | Довольно старая статья о реализации B+ дерева в игнайте |
 
+## YDB
+| Name | Link | Commentary |
+|---|---|---|
+| Yandex Database – как мы обеспечиваем отказоустойчивость (Владислав Кузнецов) | https://youtu.be/dCpfGJ35kK8 | Отличный доклад описывает архитектуру YDB как слоеный пирог |
 
-|  |  |  |
+## Clickhouse
+| Name | Link | Commentary |
+|---|---|---|
+| Как работает ClickHouse | https://youtu.be/vbhSrZxm66E | Немного сумбурная, но за-то весьма подробная лекция о том как что и почему устроено в ClickHouse |
+| Что нужно знать об архитектуре ClickHouse (Алексей Зателепин) | https://youtu.be/PLMSA_gDdyM | Доклад тоже рассказывает о внутренностях ClickHouse, но чуть меньше зато затрагивает вопросы репликации и шардирования |
+
 |  |  |  |
