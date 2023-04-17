@@ -47,3 +47,10 @@
 * https://www.1024cores.net/ 
 * http://concurrencyfreaks.blogspot.com/
 
+## JVM / Runtime
+| Name | Link | Commentary |
+|---|---|---|
+| JVM Anatomy Quarks | https://shipilev.net/jvm/anatomy-quarks/ | Набор полезных микро-статей о разных составляющих JVM от Шипилёва |
+* https://richardstartin.github.io/ автор много пишет про перформанс в jvm 
+* http://psy-lob-saw.blogspot.com/ - блог о перформансе в jvm
+ 
