@@ -103,4 +103,28 @@
 | Как работает ClickHouse | https://youtu.be/vbhSrZxm66E | Немного сумбурная, но за-то весьма подробная лекция о том как что и почему устроено в ClickHouse |
 | Что нужно знать об архитектуре ClickHouse (Алексей Зателепин) | https://youtu.be/PLMSA_gDdyM | Доклад тоже рассказывает о внутренностях ClickHouse, но чуть меньше зато затрагивает вопросы репликации и шардирования |
 
+## Assorted
+| Name | Link | Commentary |
+|---|---|---|
+| One Size Fits None - (Everything You Learned in Your DBMS Class is Wrong) | https://slideshot.epfl.ch/play/suri_stonebraker | В докладе Майкл показывает почему традиционные реляционные базы данных архитектурно устарели и нужно создавать новые системы. Его идеи лежат в основе Tarantool и Voltdb, а также многих других распределенных СУБД |
+
+# Highload, SRE
+| Name | Link | Commentary |
+|---|---|---|
+| Изучаем Latency: теория массового обслуживания | https://habr.com/ru/company/yandex/blog/431650/ | За простоватым названием скрывается топовая статья для бекендеров |
+| The System Design Primer | https://github.com/donnemartin/system-design-primer/blob/master/README.md | Страница про дизайн систем |
+| MathOps или математика в мониторинге | https://habr.com/ru/company/oleg-bunin/blog/350666/ | Неплохая вводная статья о том, как нужно анализировать и интерпретировать метрики работы приложения |
+* https://habr.com/ru/company/yandex/blog/579778/ 
+* https://habr.com/ru/post/578728/
+
+
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+
+
+
+
+
 |  |  |  |
