@@ -62,7 +62,7 @@
 | Database Internals: A Deep Dive into How Distributed Data Systems Work | https://www.databass.dev/ | Отличная книга про внутренне устройство современных баз данных и распределённых систем |
 | Designing Data-Intensive Applications | https://dataintensive.net/ | Must-Read для любого разработчика. Лучшая референсная книга про распределённые системы и базы данных |
 | Dynamo: Amazon’s Highly Available Key-value Store | https://www.allthingsdistributed.com/files/amazon-dynamo-sosp2007.pdf | Легендарный пейпер (x2) от Amazon оказавший огромное влияние на мир IT. Обязателен к прочтению |
-| NewSQL: SQL никуда не уходит (Константин Осипов) | https://youtu.be/8OZcgOKUyk | Лайтовое рассуждение почему NoSQL трансформируется в NewSQL |
+| NewSQL: SQL никуда не уходит (Константин Осипов) | https://youtu.be/_8OZcgOKUyk | Лайтовое рассуждение почему NoSQL трансформируется в NewSQL |
 | Лекции по внутреннастям баз данных от мейл ру. | https://www.youtube.com/playlist?list=PLrCZzMib1e9r6c-j8aW1JuETSyCBp9iAg | Лекции уже довольно старые 2014 год. Если хотите выучить рафт и паксес лучше послушать лекции Ромы, однако тут тоже много полезного и интересного |
 | Лекции Романа Липовского о распределенных системах | https://www.youtube.com/playlist?list=PL4_hYwCyhAvaYKF6HkyCximCvlExxxnrC | Лекции огонь, достаточно открыть плейлист и прочитать список тем как это станет ясно |
 | Подходы к реализации шардинга в современных NoSQL-системах (Константин Осипов) | https://youtu.be/DfaTNXCsYRg | Название говорит само за себя. Доклад довольно тяжелый |
@@ -135,4 +135,3 @@
 | Counterexamples in Type Systems | https://counterexamples.org/ | Целый сайт посвещенный проблемам которые возникают при разработки систем типов. Чтиво непростое, хорошо бы знать Haskell и OCaml, примеров на C-like языках совсем не много |
 | Управление ресурсами: линейные типы спешат на помощь (Виталий Брагилевский) | https://youtu.be/6fcEIPCa64c | Простой и понятный доклад Брагилевского о том, что такое линейные типы |
 | DOT for kiddies (Виталий Брагилевский) | https://youtu.be/zUrEo7GMVRE | Короткая лекция про формальную систему DOT в которой можно описать синтаксис Scala |
-
